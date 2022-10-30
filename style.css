@@ -1,0 +1,12 @@
+
+table {border: 2px solid black; text-align: center;}
+th {border: 2px solid black; vertical-align: middle; font-size: 25px;}
+td {border: 2px solid black; vertical-align: middle; font-size: 17px; font-family: verdana;}
+
+
+.titoloImportante {color: red; font-family: verdana; font-size: 40px; text-align: center;}
+.titoloMenoImportante {color: blue; font-family: verdana; font-size: 20px; text-align: center;}
+.paragrafi {font-family: verdana; font-size: 17px; text-align: center;}
+.immagini {width: 700px; text-align: center;}
+.link {font-family: verdana; font-size: 20px; text-align: center;}
+.immaginiLoghi {width: 200px;}
